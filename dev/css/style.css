@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+h2{
+    color:#1f4e9b;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:35px;
+}
+
+h3{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:20px;
+}
+
+ul,h4{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:20px;
+}
+
+img{
+    width:250px;
+    height:170px;
+}
